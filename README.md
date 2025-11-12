@@ -19,7 +19,7 @@
 ##### My Github Stat
 
 
-![Syanni GitHub stats](https://github-readme-stats.vercel.app/api?username=syanniahmadf&show_icons=true&theme=blue-green) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanniahmadf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="205" alt="languages graph"  />
+![Syanni GitHub stats](https://github-readme-stats.vercel.app/api?username=syanniahmadf&show_icons=true&theme=blue-green) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanniahmadf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="250" alt="languages graph"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syanniahmadf/syanniahmadf/output/pacman-contribution-graph-dark.svg">
@@ -28,5 +28,4 @@
 </picture>
 
 ###
-
 
