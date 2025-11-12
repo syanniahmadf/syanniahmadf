@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi World! I'm Syanni Ahmad Fauzan 👋
+
+![Syanni Ahmad Fauzan](img/Header.png)
 
 <!--
 **syanniahmadf/syanniahmadf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💻 I’m studying at **STMIK Mardira**
+📚 I’m currently learning **Laravel Framework**
+
+![Hi, Ya](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZwdDFyOXFzenowNzAzMjYzamNrcTRhZmJ0Z3hnNHZ5c3k3ZXNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)
+
