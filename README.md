@@ -9,9 +9,7 @@
 
 
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
 ##### Connect With Me
 
@@ -19,7 +17,21 @@
 
 
 ##### My Github Stat
-![Syanni GitHub stats](https://github-readme-stats.vercel.app/api?username=syanniahmadf&show_icons=true&theme=blue-green)
 
-![Hi, Ya](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZwdDFyOXFzenowNzAzMjYzamNrcTRhZmJ0Z3hnNHZ5c3k3ZXNqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.gif)
+
+![Syanni GitHub stats](https://github-readme-stats.vercel.app/api?username=syanniahmadf&show_icons=true&theme=blue-green) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanniahmadf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/syanniahmadf/syanniahmadf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/syanniahmadf/syanniahmadf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/syanniahmadf/syanniahmadf/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/syanniahmadf/syanniahmadf/output/snake.svg" alt="Snake animation" />
+
+###
 
