@@ -1,26 +1,14 @@
-![Syanni Ahmad Fauzan](img/githubheader1.png)
+### I am an enthusiastic student with a deep passion for web development and digital design. I take pride in blending technical expertise with creative vision to craft polished, professional works.
 
-### Hi I am an active student interested in web development and digital design. I enjoy combining technical and visual skills to create professional work 👋
-
-
-##### Skills
+#### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,figma,)](https://skillicons.dev)
 
-
-
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-##### Connect With Me
+#### Connect With Me
 
 ![https://instagram.com/syanniahmadf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://id.linkedin.com/in/syanniahmadfauzan](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://wa.me/6285864997697](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-
-
-##### My Github Stat
-
-
-![Syanni GitHub stats](https://github-readme-stats.vercel.app/api?username=syanniahmadf&show_icons=true&theme=blue-green) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syanniahmadf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-
 
 ###
 
@@ -31,4 +19,3 @@
 </picture>
 
 ###
-
