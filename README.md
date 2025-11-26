@@ -1,4 +1,4 @@
-### I am an enthusiastic student with a deep passion for web development and digital design. I take pride in blending technical expertise with creative vision to craft polished, professional works.
+## I am an enthusiastic student with a deep passion for web development and digital design. I take pride in blending technical expertise with creative vision to craft polished, professional works.
 
 #### Skills
 
